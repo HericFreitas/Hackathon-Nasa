@@ -1,6 +1,6 @@
-# HackthonNasa
+# hackathonnasa
 
-A new Flutter project.
+Projeto realizado para o Hackathon da Nasa
 
 ## Getting Started
 
